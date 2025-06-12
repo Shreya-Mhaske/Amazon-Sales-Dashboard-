@@ -25,7 +25,6 @@ This project is a Power BI dashboard that visualizes Amazon sales data to uncove
  📁 Files Included
 
 - Amazon_Sales_Dashboard.pbix – Main Power BI file
-- Amazon_Sales_Report.pdf – PDF with visuals and summary
 - README.md – Project documentation
 
 🧾 How to Use
